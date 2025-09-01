@@ -32,7 +32,7 @@ I'm an AI Research Engineer with expertise in **knowledge graphs, ontologies, an
 - Delivered a proof of concept deployed on Streamlit within a Docker container for seamless portability from development to production, implementing professional-grade evaluation benchmarks
 - Collaborated with multidisciplinary teams following best coding practices and using Git for version control to ensure maintainability, collaboration, and reproducibility
 
-**Technical Stack**: Python, RDF, OWL, SPARQL, LangChain, Docker, Streamlit, Git, JAX, PyTorch, Neo4j, ChromaDB, Langfuse
+**Technical Stack**: Python, RDF, OWL, SPARQL, LangChain, Docker, Streamlit, Git, Neo4j, ChromaDB, Langfuse, SQL
 
 ### 🎓 **Research Intern, Mechanical Engineering** | Harvard University, Bertoldi Group
 *Sep 2024 – Feb 2025*
@@ -50,7 +50,7 @@ I'm an AI Research Engineer with expertise in **knowledge graphs, ontologies, an
 
 ### 🧠 [GAIA AI Agent](https://github.com/oremaz/GAIA_agent)
 **Multimodal AI Agent for Complex Reasoning Tasks**
-- **Tech Stack**: LlamaIndex, Qwen VL models, JAX, Gemini, HuggingFace
+- **Tech Stack**: LlamaIndex, Qwen VL models, JAX, Gemini, smolagents, HuggingFace
 - Built dual-runtime agent system: multimodal local models (Qwen3-30B) vs. cloud APIs (Gemini)
 - Implemented sophisticated RAG with multimodal reranking using Jina models
 - Features dynamic knowledge growth through web search and incremental document indexing

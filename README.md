@@ -26,17 +26,23 @@ I'm an AI Research Engineer with expertise in **knowledge graphs, ontologies, an
 
 ### 🏢 **AI Research Engineer Intern** | Artefact, Paris
 *May 2025 – Dec 2025*
-- Designing knowledge-graph-driven RAG pipelines that improve accuracy on employee questions where traditional RAG underperforms
-- Built comprehensive RDF knowledge graphs and OWL ontologies for enterprise corpus analysis
-- Systematic evaluation of ontology-based query disambiguation, graph-guided retrieval, and answer ranking
-- Implemented robust offline evaluation benchmarks using LangChain with Docker deployment
+- Researching the benefits of knowledge graphs and ontologies to cut latency and improve accuracy in QA systems, showing higher completeness and accuracy on recurring employee questions where RAG and text-to-SQL baselines underperformed
+- Built an RDF knowledge graph and OWL ontology of Artefact's corpus; integrated it with RAG and systematically tested its impact through ontology‑based query disambiguation, graph‑guided document retrieval, and answer ranking to pinpoint where KGs deliver the greatest performance gain
+- Participated in a study on best practices for observing, evaluating, and supervising autonomous AI agents. Applied governance principles to implement LangChain RAG pipeline with robust offline evaluation as a baseline
+- Delivered a proof of concept deployed on Streamlit within a Docker container for seamless portability from development to production, implementing professional-grade evaluation benchmarks
+- Collaborated with multidisciplinary teams following best coding practices and using Git for version control to ensure maintainability, collaboration, and reproducibility
+
+**Technical Stack**: Python, RDF, OWL, SPARQL, LangChain, Docker, Streamlit, Git, JAX, PyTorch, Neo4j, ChromaDB, Langfuse
 
 ### 🎓 **Research Intern, Mechanical Engineering** | Harvard University, Bertoldi Group
 *Sep 2024 – Feb 2025*
-- Developed JAX-based inverse design platform for bistable origami structure optimization
-- Performed numerical simulations in Abaqus for mechanical response analysis
-- Created batch optimization algorithms enabling efficient exploration of design parameters
-- Validated computational results through experimental testing with 3D printing and laser cutting
+- Performed numerical simulations in Abaqus to analyze the mechanical response of bistable origami structures under Prof. Katia Bertoldi's guidance
+- Developed an inverse design platform using Python JAX for batch optimization, enabling efficient exploration of origami design parameters with automatic differentiation and GPU acceleration ([GitHub Repository](https://github.com/oremaz/multistable_origami))
+- Implemented advanced interpolation methods for continuous optimization landscapes with multiple optimization strategies including gradient-based methods and NLopt algorithms
+- Validated computational results through experimental testing with 3D printing and laser cutting, collaborating under Ph.D. mentorship in a dynamic research environment
+- Created vectorized computations for efficient batch parameter exploration and constraint management for geometric and physical limitations
+
+**Technical Stack**: Python, JAX, Abaqus, NumPy, SciPy, NLopt, JAXopt, Matplotlib, 3D Printing, Laser Cutting
 
 ---
 

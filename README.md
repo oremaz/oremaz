@@ -50,7 +50,7 @@ I'm an AI Research Engineer with expertise in **knowledge graphs, ontologies, an
 
 ### 🧠 [GAIA AI Agent](https://github.com/oremaz/GAIA_agent)
 **Multimodal AI Agent for Complex Reasoning Tasks**
-- **Tech Stack**: LlamaIndex, Qwen VL models, JAX, Gemini, smolagents, HuggingFace
+- **Tech Stack**: LlamaIndex, JAX, smolagents, HuggingFace
 - Built dual-runtime agent system: multimodal local models (Qwen3-30B) vs. cloud APIs (Gemini)
 - Implemented sophisticated RAG with multimodal reranking using Jina models
 - Features dynamic knowledge growth through web search and incremental document indexing

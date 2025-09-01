@@ -1,4 +1,4 @@
-# Orel Mazor - AI Research Engineer Portfolio 🚀
+# Orel Mazor - AI Research Engineer Portfolio
 
 **MSc Engineering Student at Mines Paris–PSL | AI Research Engineer Intern at Artefact**
 

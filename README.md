@@ -145,7 +145,7 @@ I'm an AI Research Engineer with expertise in **knowledge graphs, ontologies, an
 
 <div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oremaz&layout=compact&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oremaz&layout=compact&theme=radical&hide_border=true&hide=Jupyter%20Notebook)
 
 </div>
 

@@ -64,13 +64,14 @@ I'm an AI Research Engineer with expertise in **knowledge graphs, ontologies, an
 - Multiple optimization strategies: gradient-based methods, NLopt algorithms, grid search
 - Vectorized computations for efficient batch parameter exploration
 
-### 🍽️ [Recipe Analytics Platform](https://github.com/oremaz/food_ml_project)
-**End-to-End Recipe Analytics with Conversational AI**
-- **Tech Stack**: PyTorch, LangGraph, Streamlit, XGBoost, LightGBM
-- Comprehensive ML pipeline for recipe difficulty, meal type, and cooking time prediction
-- Advanced data augmentation: SMOTE variants, Mixup, LLM-based text augmentation
-- LangGraph-powered conversational nutritionist with personalized meal planning
-- Secure user management with session persistence and chat history
+### 🍽️ [Modular end-to-end ML Research Platform](https://github.com/oremaz/bench_research_ml_project)
+**End-to-End ML/DL Model Benchmarking and deployment through concrete use-cases**
+- **Tech Stack**: PyTorch, LangGraph, Streamlit, XGBoost, LightGBM, CNN, Transformers
+- Comprehensive model registry system supporting PyTorch and Sklearn frameworks
+- Advanced multi-modal data augmentation: tabular (SMOTE variants, Mixup), text (LLM-based), and image processing
+- Systematic benchmarking suite with reproducibility tracking and automated evaluation
+- Use-case 1: LangGraph-powered conversational nutritionist with personalized meal planning and dietary guidance deployed via Streamlit.
+- Use-case 2: AI generated vs real images detector.
 
 ### ⚡ [Energy Price Forecasting](https://github.com/oremaz/datapred_final)
 **News-Driven Energy Market Prediction**
